@@ -1,0 +1,1 @@
+from Time2 import TimemyTime1 = Time()print ("Using the object name:")print (myTime1.__class__)print ()print ("Using just the class name:")print (Time.__class__) 
